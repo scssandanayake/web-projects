@@ -1,0 +1,71 @@
+p{
+    font-family: roboto;
+    margin-top: 0;
+    margin-bottom: 0;
+ }
+     .video-title {
+         font-size: 18px;
+         width: 300px;
+         font-weight: bold;
+         line-height: 24px;
+         margin-bottom: 5px;
+ 
+     }
+ 
+     .video-stats {
+         font-size: 14px;
+         color: rgb(95, 95, 95);
+         margin-bottom: 20px;
+        
+     
+     }
+ 
+     .video-author {
+         font-size: 14px;
+         color:  rgb(95, 95, 95);
+         margin-top: 20px;
+         margin-bottom: 0;
+ 
+     }
+ 
+     .video-discription {
+         font-size: 14px;
+         color:  rgb(95, 95, 95);
+         width: 280px;
+         line-height: 22px;
+         margin-top: 20px;
+         margin-bottom: 30px;
+        
+     }
+ 
+     .apple-text {
+         margin-bottom: 50px;
+         font-size: 14px;
+         background-color: rgb(207, 28, 28);
+         color: white;
+         text-align: center;
+         padding-top: 15px;
+         padding-bottom: 15px;
+         
+ 
+     }
+ 
+     .span-example {
+         color:red;
+         margin-left: 12px;
+     
+     }
+ 
+     .span-example:hover {
+         text-decoration: underline;
+ 
+     }
+ 
+     .shop-link {
+         cursor: pointer;
+ 
+     }
+ 
+     .shop-link:hover {
+         text-decoration: underline;
+     }
